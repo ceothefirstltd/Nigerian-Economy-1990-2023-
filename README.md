@@ -2,7 +2,23 @@
 
 ### Project Overview
 
-This project analyzes Nigeria's historical and predicted economic data to understand its growth, inflation, and main industries. It looks at how the services, industry, and agriculture sectors drive GDP, reviews past trends in inflation and unemployment, and projects growth up to 2030. The goal is to provide clear insights for policymakers and investors to assess economic stability and future revenue trend
+This project analyzes Nigeria's historical and predicted economic data to understand its growth, inflation, and main industries. It looks at how the services, industry, and agriculture sectors drive GDP, reviews past trends in inflation and unemployment, and projects growth up to 2030. The goal is to provide clear insights for policymakers and investors to assess economic stability and future revenue trend.
+please note,Right now, the dashboard does not use the modern 2010 basic price standard that most current economic reports use. Instead, it is built on older model baselines from the early 1990s and Because it uses an older pricing baseline, the total amounts (like the trillion-naira figures) will look  different from the current numbers you see in the news today. However, the dashboard is still highly accurate for showing you the overall trends—such as which sectors are growing the fastest and how inflation spikes over time.
+
+<img width="1224" height="697" alt="Screenshot 2026-05-23 at 10 37 06" src="https://github.com/user-attachments/assets/4db2c2f9-82d5-44bc-974a-c96d45de0539" />
+<img width="1234" height="700" alt="Screenshot 2026-05-23 at 10 38 11" src="https://github.com/user-attachments/assets/f4238595-392c-4c6a-8145-501d5bd08dd9" />
+<img width="1237" height="701" alt="Screenshot 2026-05-23 at 10 37 25" src="https://github.com/user-attachments/assets/296189a6-0f22-4415-a445-9253e170c559" />
+
+
+
+
+
+
+
+
+
+
+
 
 ### Data Source
 
