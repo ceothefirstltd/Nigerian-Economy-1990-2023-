@@ -1,5 +1,22 @@
 # Nigerian-Economy-1990-2023-
 
+# Table of content
+
+[Project Overview](#Project-Overview)
+
+[Data Source](#Data-Source)
+
+[Tools](#Tools)
+
+[Data Preparation](#Data-preparation)
+
+[Exploratory Data Analysis](#Exploratory-Data-Analysis)
+
+[Key Results](#Key-Results)
+
+[Recommendations](#Recommendations)
+
+
 ### Project Overview
 
 This project analyzes Nigeria's historical and predicted economic data to understand its growth, inflation, and main industries. It looks at how the services, industry, and agriculture sectors drive GDP, reviews past trends in inflation and unemployment, and projects growth up to 2030. The goal is to provide clear insights for policymakers and investors to assess economic stability and future revenue trend.
